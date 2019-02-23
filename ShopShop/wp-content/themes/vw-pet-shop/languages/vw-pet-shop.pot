@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VW Pet Shop\n"
+"Last-Translator: \n"
+"Language-Team: VW Themes <support@vwthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 0.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:12
+msgid '404'
+msgstr ""
+
+#: 404.php:12
+msgid 'Not Found'
+msgstr ""
+
+#: 404.php19
+msgid 'Looks like you have taken a wrong turn&hellip'
+msgstr ""
+
+#: 404.php:20
+#: no-results.php:24
+msgid 'Dont worry&hellip it happens to the best of us.'
+msgstr ""
+
+#: 404.php:22
+msgid 'Return to the home page'
+msgstr ""
+
+#: comments.php:31
+msgid 'One thought on &ldquo;%s&rdquo;'
+msgstr ""
+
+#: comments.php:39
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:69
+msgid 'Comments are closed.'
+msgstr ""
+
+#: footer.php:31
+msgid 'Pets WordPress Theme By'
+msgstr ""
+
+#: header.php:84
+msgid 'Menu'
+msgstr ""
+
+#: header.php:39
+msgid 'abcdefxyz@gmail.com'
+msgstr ""
+
+#: header.php:54
+msgid 'Mon - Fri 8:00am to 7:00pm '
+msgstr ""
+
+#: header.php:59
+msgid 'My Account'
+msgstr ""
+
+#: no-results.php:13
+msgid 'Nothing Found'
+msgstr ""
+
+#: no-results.php:19
+msgid 'Ready to publish your first post? Get started here.'
+msgstr ""
+
+#: no-results.php:21
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: no-results.php:26
+msgid 'Back to Home Page'
+msgstr ""
+
+#: searchform.php:10
+#: searchform.php:12
+msgid 'Search'
+msgstr ""
+
+#: searchform.php:10
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:12
+msgid 'submit button'
+msgstr ""
+
+#: sidebar.php:11
+msgid 'Archives'
+msgstr ""
+
+#: sidebar.php:17
+msgid 'Meta'
+msgstr ""
+
+#: search.php:12
+msgid 'Results For: %s'
+msgstr ""
+
+#: logo-resizer.php:19
+msgid 'Logo Size'
+msgstr ""
+
+#: archive.php:48
+#: archive.php:80
+#: archive.php:111
+#: archive.php:142
+#: archive.php:175
+#: archive.php:210
+#: image.php:37
+#: image.php:69
+#: image.php:100
+#: image.php:131
+#: image.php:164
+#: image.php:199
+#: index.php:48
+#: index.php:80
+#: index.php:111
+#: index.php:142
+#: index.php:175
+#: index.php:210
+#: search.php:43
+#: search.php:75
+#: search.php:106
+#: search.php:137
+#: search.php:170
+#: search.php:205
+#: single.php:43
+#: single.php:75
+#: single.php:106
+#: single.php:137
+#: single.php:170
+#: single.php:205
+msgid 'Previous page'
+msgstr ""
+
+#: archive.php:49
+#: archive.php:81
+#: archive.php:112
+#: archive.php:143
+#: archive.php:176
+#: archive.php:211
+#: image.php:38
+#: image.php:70
+#: image.php:101
+#: image.php:132
+#: image.php:165
+#: image.php:200
+#: index.php:49
+#: index.php:81
+#: index.php:112
+#: index.php:143
+#: index.php:176
+#: index.php:211
+#: search.php:44
+#: search.php:76
+#: search.php:107
+#: search.php:138
+#: search.php:171
+#: search.php:206
+#: single.php:44
+#: single.php:76
+#: single.php:107
+#: single.php:138
+#: single.php:171
+#: single.php:206
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:50
+#: archive.php:82
+#: archive.php:113
+#: archive.php:144
+#: archive.php:177
+#: archive.php:212
+#: image.php:39
+#: image.php:71
+#: image.php:102
+#: image.php:133
+#: image.php:166
+#: image.php:201
+#: index.php:50
+#: index.php:82
+#: index.php:113
+#: index.php:144
+#: index.php:177
+#: index.php:212
+#: search.php:45
+#: search.php:77
+#: search.php:108
+#: search.php:139
+#: search.php:172
+#: search.php:207
+#: single.php:45
+#: single.php:77
+#: single.php:108
+#: single.php:139
+#: single.php:172
+#: single.php:207
+msgid 'Page'
+msgstr ""
+
+#: functions.php:32
+msgid 'Left Primary Menu'
+msgstr ""
+
+#: functions.php:33
+msgid 'Right Primary Menu'
+msgstr ""
+
+#: functions.php:61
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:62
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:71
+msgid 'Page Sidebar'
+msgstr ""
+
+#: functions.php:72
+#: functions.php:82
+msgid 'Appears on page sidebar'
+msgstr ""
+
+#: functions.php:81
+msgid 'Sidebar 3'
+msgstr ""
+
+#: functions.php:91
+msgid 'Footer Navigation 1'
+msgstr ""
+
+#: functions.php:92
+msgid 'Appears on footer 1'
+msgstr ""
+
+#: functions.php:101
+msgid 'Footer Navigation 2'
+msgstr ""
+
+#: functions.php:102
+msgid 'Appears on footer 2'
+msgstr ""
+
+#: functions.php:111
+msgid 'Footer Navigation 3'
+msgstr ""
+
+#: functions.php:112
+msgid 'Appears on footer 3'
+msgstr ""
+
+#: functions.php:121
+msgid 'Footer Navigation 4'
+msgstr ""
+
+#: functions.php:122
+msgid 'Appears on footer 4'
+msgstr ""
+
+#: functions.php:386
+msgid 'VWThemes'
+msgstr ""
+
+#: index.php:17
+msgid 'Post Page'
+msgstr ""
+
+#: page-template/custom-home-page.php:59
+msgid 'SHOP NOW'
+msgstr ""
+
+#: page-template/custom-home-page.php:79
+msgid 'Pet Collection'
+msgstr ""
+
+#: template-parts/content-audio.php:56
+#: template-parts/content-gallery.php:44
+#: template-parts/content-image.php:37
+#: template-parts/content-video.php:56
+#:template-parts/content.php:37
+#:template-parts/grid-layout.php:25
+msgid 'Read More'
+msgstr ""
+
+#:template-parts/image-layout.php:27
+msgid 'Pages:'
+msgstr ""
+
+#:template-parts/image-layout.php:32
+msgid 'Edit'
+msgstr ""
+
+#:template-parts/single-post-layout.php:30
+msgid 'Parent post link'
+msgstr ""
+
+#:template-parts/single-post-layout.php:35
+msgid 'Next'
+msgstr ""
+
+#:template-parts/single-post-layout.php:36
+msgid 'Next post:'
+msgstr ""
+
+#:template-parts/single-post-layout.php:38
+msgid 'Previous'
+msgstr ""
+
+#:template-parts/single-post-layout.php:39
+msgid 'Previous post:'
+msgstr ""
+
+#: inc/customizer.php:20
+msgid 'VW Settings'
+msgstr ""
+
+#: inc/customizer.php:21
+msgid 'Description of what this panel does.'
+msgstr ""
+
+#: inc/customizer.php:25
+msgid 'General Settings'
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:32
+#: inc/customizer.php:41
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Do you want this section"
+msgstr ""
+
+
+#: inc/customizer.php:42
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid 'Typography'
+msgstr ""
+
+#: inc/customizer.php:157
+msgid 'Paragraph Color'
+msgstr ""
+
+#: inc/customizer.php:171
+msgid 'Paragraph Fonts'
+msgstr ""
+
+#: inc/customizer.php:182
+msgid 'Paragraph Font Size'
+msgstr ""
+
+#: inc/customizer.php:194
+msgid '"a" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:208
+msgid '"a" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:219
+msgid '"li" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:233
+msgid '"li" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:244
+msgid 'H1 Color'
+msgstr ""
+
+#: inc/customizer.php:258
+msgid 'H1 Fonts'
+msgstr ""
+
+#: inc/customizer.php:270
+msgid 'H1 Font Size'
+msgstr ""
+
+#: inc/customizer.php:282
+msgid 'h2 Color'
+msgstr ""
+
+#: inc/customizer.php:296
+msgid 'h2 Fonts'
+msgstr ""
+
+#: inc/customizer.php:308
+msgid 'h2 Font Size'
+msgstr ""
+
+#: inc/customizer.php:320
+msgid 'h3 Color'
+msgstr ""
+
+#: inc/customizer.php:334
+msgid 'h3 Fonts'
+msgstr ""
+
+#: inc/customizer.php:346
+msgid 'h3 Font Size'
+msgstr ""
+
+#: inc/customizer.php:358
+msgid 'h4 Color'
+msgstr ""
+
+#: inc/customizer.php:372
+msgid 'h4 Fonts'
+msgstr ""
+
+#: inc/customizer.php:384
+msgid 'h4 Font Size'
+msgstr ""
+
+#: inc/customizer.php:396
+msgid 'h5 Color'
+msgstr ""
+
+#: inc/customizer.php:410
+msgid 'h5 Fonts'
+msgstr ""
+
+#: inc/customizer.php:422
+msgid 'h5 Font Size'
+msgstr ""
+
+#: inc/customizer.php:434
+msgid 'h6 Color'
+msgstr ""
+
+#: inc/customizer.php:448
+msgid 'h6 Fonts'
+msgstr ""
+
+#: inc/customizer.php:460
+msgid 'h6 Font Size'
+msgstr ""
+
+#: inc/customizer.php:468
+msgid 'Topbar Section'
+msgstr ""
+
+#: inc/customizer.php:469
+msgid 'Add Header Content here'
+msgstr ""
+
+#: inc/customizer.php:479
+msgid 'Add Contact Details'
+msgstr ""
+
+#: inc/customizer.php:490
+msgid 'Add Email Address'
+msgstr ""
+
+#: inc/customizer.php:501
+msgid 'Add Time'
+msgstr ""
+
+#: inc/customizer.php:512
+msgid 'Add My Account Page Link'
+msgstr ""
+
+#: inc/customizer.php:520
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:533
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:541
+msgid 'Pets Collection'
+msgstr ""
+
+#: inc/customizer.php:542
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:551
+msgid 'Section Title'
+msgstr ""
+
+#: inc/customizer.php:564
+msgid 'Select Page'
+msgstr ""
+
+#: inc/customizer.php:572
+msgid 'Footer'
+msgstr ""
+
+#: inc/customizer.php:573
+msgid 'This section will appear in the footer'
+msgstr ""
+
+#: inc/customizer.php:582
+msgid 'Copyright Text'
+msgstr ""
+
+#: inc/customizer.php:668
+msgid 'VW Pet Pro'
+msgstr ""
+
+#: inc/customizer.php:669
+msgid 'Upgrade Pro'
+msgstr ""
+
+#: inc/customizer.php:682
+msgid 'Documentation'
+msgstr ""
+
+#: inc/customizer.php:683
+msgid 'Docs'
+msgstr ""
